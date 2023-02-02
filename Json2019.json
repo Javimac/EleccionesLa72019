@@ -1,0 +1,44 @@
+{
+  "PartidosPoliticos": [
+    {
+      "UserId": "0",
+      "Nombre": "Partido Popular",
+      "Porcentaje": "34.9",
+      "Votos": "72.389",
+      "NumEscanos": "11"
+    },
+    {
+      "UserId": "1",
+      "Nombre": "Partido Socialiasta",
+      "Porcentaje": "28.9",
+      "Votos": "59.907",
+      "NumEscanos": "9"
+    },
+    {
+      "UserId": "2",
+      "Nombre": "Ciudadanos",
+      "Porcentaje": "13.4",
+      "Votos": "27.902",
+      "NumEscanos": "4"
+    },
+    {
+      "UserId": "3",
+      "Nombre": "Vox",
+      "Porcentaje": "10.1",
+      "Votos": "21.078",
+      "NumEscanos": "3"
+    },
+    {
+      "UserId": "4",
+      "Nombre": "Podemos",
+      "Porcentaje": "6.4",
+      "MaximoPorcentaje": "13.256",
+      "NumEscanos": "2"
+    },
+    {
+      "UserId": "5",
+      "Nombre": "Participación",
+      "Porcentaje": "64.56"
+    }
+  ]
+}
