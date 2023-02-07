@@ -10,7 +10,7 @@
     {
       "UserId": "1",
       "Nombre": "Partido Socialiasta",
-      "Porcentaje": "28.9",
+      "Porcentaje": "29",
       "Votos": "59.907",
       "NumEscanos": "9"
     },
@@ -38,7 +38,7 @@
     {
       "UserId": "5",
       "Nombre": "Participación",
-      "Porcentaje": "64.56"
+      "Porcentaje": "33.25"
     }
   ]
 }
